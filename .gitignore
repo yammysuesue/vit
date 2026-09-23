@@ -1,0 +1,12 @@
+# PowerPoint presentations
+*.[pP][pP][tT]
+*.[pP][pP][tT][xXmM]
+*.[pP][pP][sS]
+*.[pP][pP][sS][xXmM]
+*.[pP][oO][tT]
+*.[pP][oO][tT][xXmM]
+
+# Generated Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

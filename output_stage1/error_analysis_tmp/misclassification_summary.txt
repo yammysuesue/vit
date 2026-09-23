@@ -1,0 +1,13 @@
+Total misclassified samples: 2
+
+Errors by true class:
+  - Sicklepod: 1
+  - SpottedSpurge: 1
+
+Most common confusion pairs:
+  - Sicklepod -> PalmerAmaranth: 1 (avg conf 0.5648)
+  - SpottedSpurge -> PalmerAmaranth: 1 (avg conf 0.6580)
+
+Lowest-confidence errors:
+  - Sicklepod_Mod_76.jpg: true=Sicklepod, pred=PalmerAmaranth, conf=0.5648
+  - SpottedSpurge_Mod_9.jpg: true=SpottedSpurge, pred=PalmerAmaranth, conf=0.6580

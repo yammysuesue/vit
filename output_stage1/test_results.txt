@@ -1,0 +1,19 @@
+Test accuracy: 0.9878 (162/164)
+Avg inference time: 0.06 ms/image
+
+                precision    recall  f1-score   support
+
+    Carpetweed       1.00      1.00      1.00        20
+       Eclipta       1.00      1.00      1.00        15
+    Goosegrass       1.00      1.00      1.00        12
+  Morningglory       1.00      1.00      1.00        20
+      Nutsedge       1.00      1.00      1.00        14
+PalmerAmaranth       0.91      1.00      0.95        20
+      Purslane       1.00      1.00      1.00        16
+     Sicklepod       1.00      0.93      0.97        15
+ SpottedSpurge       1.00      0.92      0.96        13
+     Waterhemp       1.00      1.00      1.00        19
+
+      accuracy                           0.99       164
+     macro avg       0.99      0.99      0.99       164
+  weighted avg       0.99      0.99      0.99       164

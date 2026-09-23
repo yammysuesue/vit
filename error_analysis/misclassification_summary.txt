@@ -1,0 +1,9 @@
+Total misclassified: 2
+
+Errors by true class:
+  - Sicklepod: 1
+  - SpottedSpurge: 1
+
+Most common confusion pairs:
+  - Sicklepod -> PalmerAmaranth: 1 (avg conf 0.5648)
+  - SpottedSpurge -> PalmerAmaranth: 1 (avg conf 0.6580)
